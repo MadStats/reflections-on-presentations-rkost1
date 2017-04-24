@@ -54,15 +54,61 @@ What were aspects of the presentations for which you had concerns or questions: 
 
 
 
-Title of presentation:
+Title of presentation: Gaming
 
-What were aspects of the presentation that you liked:
+What were aspects of the presentation that you liked:Good at giving definitions of terms like 1 sample is 10 players, 1 game, good for people who haven't played the game
 
-What were aspects of the presentations for which you had concerns or questions:
-
-
+What were aspects of the presentations for which you had concerns or questions: Use of colors make it hard to read the slides, don't understand your data or your results, don't know what your predictors were in your models
 
 
+
+
+
+Title of presentation: H1B
+
+What were aspects of the presentation that you liked:Glad you mentioned Trump addressing this topic last week, nice to see the row data, nice visualizations
+
+What were aspects of the presentations for which you had concerns or questions: Not a fan of the radar plots, 
+
+
+
+
+
+Title of presentation: Traffic
+
+What were aspects of the presentation that you liked: liked seeing the coefficients of your model
+
+What were aspects of the presentations for which you had concerns or questions: Think some of the numbers in your maps should be changed to percentages instead of small decimals, not clear what your conclusion was from your model
+
+
+
+
+
+Title of presentation: Songs
+
+What were aspects of the presentation that you liked: liked your word cloud showing that love stuck out
+
+What were aspects of the presentations for which you had concerns or questions: Would like a bigger scope of the data, how many songs, how many years? What is entropy? Why did you analyze average word length? don't know what a phoeneme is
+ 
+
+
+
+
+Title of presentation: NBA
+
+What were aspects of the presentation that you liked: Cool topic between performance and salary, think it was smart to exclude OT data, all the visualizations you made were great and each one communicated a clear point, also you explained each plot well
+
+What were aspects of the presentations for which you had concerns or questions: A lot of goals and topics, think more definitions needed for people that don't follow basketball, need labels for distances (24+ ft. is 3 pointer, etc), need better labels on graphs
+
+
+
+
+
+Title of presentation: Terrorism
+
+What were aspects of the presentation that you liked: liked your data description, liked seeing differences between countries
+
+What were aspects of the presentations for which you had concerns or questions: too much time focusing on the animations, labels unclear on plots, 
 
 
 
